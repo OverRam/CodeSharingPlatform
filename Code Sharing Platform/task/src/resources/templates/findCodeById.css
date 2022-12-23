@@ -1,0 +1,10 @@
+#code_snippet {
+    min-width: 200px;
+    width: 400;
+    min-height: 50px;
+    background-color: grey;
+}
+
+#load_date {
+    color: green;
+}
